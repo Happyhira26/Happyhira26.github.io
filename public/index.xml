@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mst Happy Akther</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mst Happy Akther</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an MSc student in Computer Science and Engineering at Daffodil International University, majoring in Data Science. My work focuses on applying deep learning and computer vision to real-world problems, especially medical imaging.&lt;/p&gt;
+&lt;p&gt;My research interests include Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Natural Language Processing, Cyber Security, Software Engineering, and Human-Computer Interaction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nationality:&lt;/strong&gt; Bangladeshi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Nishindara, Bogura&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student ID:&lt;/strong&gt; 262-25-029&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:262-25-029@diu.edu.bd&#34;&gt;262-25-029@diu.edu.bd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01731298468&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; Nishindara, Bogura, Bangladesh&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h2 id=&#34;msc-in-computer-science-and-engineering-data-science&#34;&gt;MSc in Computer Science and Engineering (Data Science)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Daffodil International University&lt;/strong&gt; | 2026 - 2027 (expected)
+CGPA: 3.75&lt;/p&gt;
+&lt;h2 id=&#34;bsc-in-computer-science-and-engineering&#34;&gt;BSc in Computer Science and Engineering&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Daffodil International University&lt;/strong&gt; | Graduated 2025
+CGPA: 3.11&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;conference-papers&#34;&gt;Conference Papers&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;High-Accuracy 3-Class Cerebral Stroke Detection Using ConvNeXt: An End-to-End Vision Pipeline&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Amit Kumar Ghosh, Mst Happy Akther, Shahriar Marjan, Md. Monarul Islam Mithu&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference:&lt;/strong&gt; International Conference on Intelligent Data Analysis and Applications (IDAA 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.2991/978-94-6239-664-7_11&#34;&gt;10.2991/978-94-6239-664-7_11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&#34;https://www.atlantis-press.com/proceedings/idaa-25/126024919&#34;&gt;Read the paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;High-Accuracy 3-Class Cerebral Stroke Detection Using ConvNeXt: An End-to-End Vision Pipeline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Add a short summary here: the problem, dataset, method, and your headline result.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Machine Learning and Deep Learning&lt;/li&gt;
+&lt;li&gt;Data Science&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Cyber Security&lt;/li&gt;
+&lt;li&gt;Software Engineering&lt;/li&gt;
+&lt;li&gt;Human-Computer Interaction&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;
+&lt;p&gt;Python, Java, C/C++, JavaScript, SQL&lt;/p&gt;
+&lt;h2 id=&#34;frameworks-and-libraries&#34;&gt;Frameworks and Libraries&lt;/h2&gt;
+&lt;p&gt;TensorFlow, PyTorch, Scikit-learn, Django, Flask, React&lt;/p&gt;
+&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
+&lt;p&gt;MySQL, PostgreSQL, Oracle, MongoDB&lt;/p&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Git, Docker, Linux, VS Code, Jupyter Notebook, Kaggle&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

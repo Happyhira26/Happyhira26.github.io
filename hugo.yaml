@@ -1,0 +1,66 @@
+baseURL: "https://Happyhira26.github.io/"
+languageCode: en-us
+title: "Mst Happy Akther"
+theme: PaperMod
+pagination:
+  pagerSize: 10
+
+params:
+  env: production
+  description: "MSc student in Data Science at Daffodil International University"
+  author: "Mst Happy Akther"
+  defaultTheme: auto
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Mst Happy Akther"
+    subtitle: "MSc Student in Data Science | Daffodil International University | Computer Vision & Machine Learning Researcher"
+    imageUrl: "images/profile.jpg"   # put your photo in static/images/profile.jpg
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: Research
+        url: /research/
+      - name: Publications
+        url: /publications/
+      - name: Skills
+        url: /skills/
+
+  socialIcons:
+    - name: email
+      url: "mailto:262-25-029@diu.edu.bd"
+    # Add these when you create the accounts:
+    # - name: github
+    #   url: "https://github.com/yourusername"
+    # - name: linkedin
+    #   url: "https://linkedin.com/in/yourusername"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: education
+      name: Education
+      url: /education/
+      weight: 20
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 30
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 40
+    - identifier: skills
+      name: Skills
+      url: /skills/
+      weight: 50
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
