@@ -7,7 +7,6 @@ hidemeta: true
 
 **High-Accuracy 3-Class Cerebral Stroke Detection Using ConvNeXt: An End-to-End Vision Pipeline**
 
-*(Add a short summary here: the problem, dataset, method, and your headline result.)*
 
 ## Research Interests
 
